@@ -55,8 +55,8 @@ public class Constants {
      */
 
     public static final String MCP_URL = "https://lss233.littleservice.cn/repositories/forgedev/fernflower-fix-1.0.zip";
-    public static final String FORGE_MAVEN = "https://lss233.littleservice.cn/repositories/forgedev";
-    public static final String LIBRARY_URL = "https://lss233.littleservice.cn/repositories/libraries.minecraft.net/";
+    public static final String FORGE_MAVEN = "https://lss233.littleservice.cn/repositories/minecraft";
+    public static final String LIBRARY_URL = "https://lss233.littleservice.cn/repositories/minecraft";
 
     // MCP things
     public static final String CONFIG_MCP_DATA = "mcpSnapshotDataConfig";

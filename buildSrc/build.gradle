@@ -21,20 +21,7 @@ repositories {
     }
     maven {
         name = "forge"
-        url = "http://lss233.littleservice.cn/repositories/forgedev"
-    }
-    maven {
-        name = "mojang"
-        url = "https://lss233.littleservice.cn/repositories/libraries.minecraft.net"
-    }
-    maven {
-        // because Srg2Source needs an eclipse dependency.
-        name = "eclipse"
-        url = "https://repo.eclipse.org/content/groups/eclipse/"
-    }
-    maven {
-        name = "gradle-plugin"
-        url = "https://maven.aliyun.com/repository/gradle-plugin"
+        url = "https://lss233.littleservice.cn/repositories/minecraft"
     }
 }
 
